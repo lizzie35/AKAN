@@ -1,0 +1,16 @@
+
+.rounded-corners {
+    border-radius: 50%;
+  }
+
+  img{
+    float: right;
+    width: 50%;
+    height: 50%;
+  }
+
+  .content {
+    max-width: 700px;
+    margin: auto;
+  }
+  
